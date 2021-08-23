@@ -21,6 +21,7 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## A Link To The Website
+https://andrewjosephparker.github.io/javascript-password-generator/
 
 ## Screenshot
 ![2021-08-22 (2)](https://user-images.githubusercontent.com/83850651/130387725-18907586-ed12-4892-a49b-c09af16d1d18.png)
